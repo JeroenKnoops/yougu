@@ -1,3 +1,4 @@
-<div class="jumbotron">
-  <h2>Hello World, from Phoenix!</h2>
-</div>
+<h3>Opening line</h3>
+<h2>Hello synths!</h2>
+<p>A productive web framework that<br />does not compromise speed and maintainability.</p>
+

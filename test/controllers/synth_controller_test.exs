@@ -3,7 +3,7 @@ defmodule Yougu.SynthControllerTest do
 
   test "GET /synth" do
     conn = get conn(), "/synth"
-    assert html_response(conn, 200) =~ "Hello World, from Phoenix!"
+    assert html_response(conn, 200) =~ "Hello synths!"
   end
   
   test "GET /synth/:synth" do
